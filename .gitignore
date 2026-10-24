@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+outputs/
+logs/
+wandb/
+checkpoints/
+pretrained/
+*.pt
+*.pth
+*.mp4
+*.avi
+*.mov
+*.png
+*.log
+.ask.cmd
